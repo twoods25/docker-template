@@ -1,0 +1,11 @@
+*.env*
+.git
+.env*
+*node_modules*/
+*__pycache__*/
+*dist*/
+*.vite*/
+*backups*/
+ros2/ws/build/
+ros2/ws/install/
+ros2/ws/log/
